@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omizerith
-- 👀 I’m interested in robotics and ai devlopment.
+- 👀 I’m interested in Ai Devlopment expecally for robotics.
 - 🌱 I’m currently learning c and python.
 - 💞️ I’m looking to collaborate on simple and solution orentated projects.
 - 📫 How to reach me ogayle72@gmail.com
